@@ -115,4 +115,4 @@ Decimal: 42
 
 ---
 
-*Academic Year: 2024-2025*
+*Academic Year: 2024/2025*
